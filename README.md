@@ -1,4 +1,4 @@
-
+#### MY NAME IS BAHA UDDIN```
 #### INSTALL TOOLS:
  DOWNLOAD TERMUX LETEST VERSION  [CLICK!](https://f-droid.org/repo/com.termux_117.apk),
  ```
@@ -14,13 +14,13 @@
 °pip install mechanize 
 °pip install bs4 
 °pip install uuid
-°git clone https://github.com/MrNisi1/Free_paid
+°git clone https://github.com/MrNisi1/paid
  ```
  Follow and run step by step
 #### RUN TOOLS:
  COPY AND PAST:
  ```
-°cd Free_paid
+°cd paid
 °git pull
 °python paid.py
  ```
