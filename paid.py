@@ -11,12 +11,12 @@ if bit == '64bit':
     os.system('clear')
     print ('WELCOME 64 BIT PAID USER..!')
     sleep (2)
-    from error64 import Main
+    from baba64 import Main
     ()
 
 elif bit == '32bit':
     os.system('clear')
     print('WELCOME 32 BIT PAID USER..!')
     sleep (2)
-    from error import Main
+    from baha import Main
     Main()
